@@ -1,58 +1,48 @@
 # Sulayman Chowdhury
-*Computer Science Graduate | Full-Stack Developer*
+*Aspiring Software Developer & Data Scientist*
+
+A driven and detail-oriented Computer Science graduate with hands-on experience building full-stack applications and data-driven solutions. Passionate about using technology to solve complex problems.
+
+[**Email**](mailto:sulaymanchowdhury1@gmail.com) &nbsp;&nbsp;•&nbsp;&nbsp; [**LinkedIn**](https://linkedin.com/in/suly45) &nbsp;&nbsp;•&nbsp;&nbsp; [**GitHub**](https://github.com/Sulayman-455)
 
 ---
 
-### About Me
-
-A versatile and highly motivated Computer Science graduate from City, University of London. I have hands-on experience building complex, full-stack applications from the ground up, with a focus on creating practical solutions to real-world problems. I am passionate about leveraging technology, from web development to data analysis, to create intuitive and impactful user experiences.
+### Featured Projects
 
 ---
 
-### My Projects
+### Quantivest - Financial Forecasting & Risk Dashboard
+*Dissertation Project • Achieved 77% (First Class)*
 
-Here are some of the key projects I have developed.
+A full-stack financial analysis dashboard built with Python and the MERN stack. The application provides real-time portfolio management, trend visualization, and integrates a machine learning model for stock forecasting.
 
-#### 1. Quantivest - Financial Analysis Dashboard
-*(Dissertation Project, Achieved 77%)*
+**Technologies Used:** Python, React, Node.js, Express.js, MongoDB, JWT, Chart.js
 
-**Description:** A full-stack financial analysis dashboard built with the MERN stack and Python. The application provides real-time data for portfolio management, trend visualization, and risk analysis.
+<details>
+<summary>Click to see video demo</summary>
 
-**Key Features:**
-- Engineered a backend Python module with an LSTM machine learning model for stock forecasting.
-- Implemented secure user authentication with JWT and Google OAuth.
-- Integrated multiple financial APIs for live data feeds.
+https://github.com/Sulayman-455/sulayman-455.github.io/assets/91572566/42d2a45a-c567-4b47-b355-dfb1e428e3b1
 
-**Video Demo:**
-*(Once you have a video, embed it here. See instructions below)*
+</details>
 
-**Technologies Used:** MongoDB, Express.js, React, Node.js, Python, JWT, Chart.js
-
-![Quantivest Screenshot](URL_TO_YOUR_SCREENSHOT_IMAGE)
+![Quantivest Screenshot](quantivest-screenshot.png)
 
 ---
 
-#### 2. TrackFit - Cloud-Based Fitness App
-*(Cloud Computing Project, Achieved 88%)*
+### TrackFit - Cloud-Based Fitness App
+*Cloud Computing Project • Achieved 88% (First Class)*
 
-**Description:** A full-stack fitness tracking application developed in a team and deployed on Google Cloud. I took the lead on developing the entire frontend user experience.
+A full-stack fitness tracking application developed in a team and deployed on Google Cloud. My primary role was leading the development of the entire frontend user experience, while also contributing to the backend.
 
-**Key Features:**
-- Designed and programmed a responsive and intuitive user interface with HTML, CSS, and JavaScript.
-- Contributed to the Python/Flask backend by co-developing the user search and login functionalities.
-- Integrated Chart.js to create dynamic, interactive charts for visualizing user health data.
+**Technologies Used:** Python, Flask, HTML/CSS, JavaScript, Google Cloud, Docker, Chart.js
 
-**Video Demo:**
-*(Once you have a video, embed it here. See instructions below)*
+<details>
+<summary>Click to see video demo</summary>
 
-**Technologies Used:** Python, Flask, HTML/CSS, JavaScript, Google Cloud, Chart.js, Docker
+https://github.com/Sulayman-455/sulayman-455.github.io/assets/91572566/d5b78d21-f19b-4654-be8d-f5e93de8218e
 
-![TrackFit Screenshot](URL_TO_YOUR_SCREENSHOT_IMAGE)
+</details>
+
+![TrackFit Screenshot](trackfit-screenshot.png)
 
 ---
-
-### Contact Me
-
-- **Email:** sulaymanc.123@gmail.com
-- **LinkedIn:** [linkedin.com/in/suly45](https://linkedin.com/in/suly45)
-- **GitHub:** [github.com/Sulayman-455](https://github.com/Sulayman-455)
