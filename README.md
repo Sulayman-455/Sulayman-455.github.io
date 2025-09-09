@@ -15,7 +15,7 @@ A driven and detail-oriented Computer Science graduate with hands-on experience 
 ### IBM Data Science Professional Certificate
 *Provider: IBM Skills Network • Status: In Progress (Expected Completion: Jan 2026)*
 
-A comprehensive 12-course program covering the full data science lifecycle, from data wrangling and analysis to building and deploying machine learning models. The curriculum provides hands-on experience with essential data science tools and libraries including Python, SQL, Jupyter, Pandas, NumPy, and Scikit-learn.
+A comprehensive 12-course program covering the full data science lifecycle, from data wrangling and analysis to building and deploying machine learning models. The curriculum provides hands-on experience with essential data science tools and libraries including Python, SQL, Jupyter, Pandas, NumPy and Scikit-learn.
 
 
 ---
