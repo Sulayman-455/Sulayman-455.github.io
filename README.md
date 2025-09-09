@@ -18,7 +18,7 @@ A full-stack financial analysis dashboard built with Python and the MERN stack. 
 
 [**Watch the Live Demo →**](https://youtu.be/JR6rff1yQLg)
 
-**Technologies Used:** Python, React, Node.js, Express.js, MongoDB, JWT, Chart.js
+**Technologies Used:** Python, MongoDB, Express.js, React, Node.js (MERN), Redux Toolkit, Material UI (MUI), JWT, ApexCharts, Pytest, Jest, Supertest
 
 ![Quantivest Screenshot](quantivest-screenshot.png)
 
@@ -31,7 +31,7 @@ A full-stack fitness tracking application developed in a team and deployed on Go
 
 [**Watch the Live Demo →**](https://youtu.be/lKsIR0NrnqA)
 
-**Technologies Used:** Python, Flask, HTML/CSS, JavaScript, Google Cloud, Docker, Chart.js
+**Technologies Used:** Python, Flask, HTML/CSS, JavaScript, Google Cloud, Docker, Chart.js, MySQL
 
 ![TrackFit Screenshot](trackfit-screenshot.png)
 
