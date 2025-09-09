@@ -16,14 +16,9 @@ A driven and detail-oriented Computer Science graduate with hands-on experience 
 
 A full-stack financial analysis dashboard built with Python and the MERN stack. The application provides real-time portfolio management, trend visualization, and integrates a machine learning model for stock forecasting.
 
+[**Watch the Live Demo →**](https://youtu.be/JR6rff1yQLg)
+
 **Technologies Used:** Python, React, Node.js, Express.js, MongoDB, JWT, Chart.js
-
-<details>
-<summary>Click to see video demo</summary>
-
-https://github.com/Sulayman-455/sulayman-455.github.io/assets/91572566/42d2a45a-c567-4b47-b355-dfb1e428e3b1
-
-</details>
 
 ![Quantivest Screenshot](quantivest-screenshot.png)
 
@@ -34,14 +29,9 @@ https://github.com/Sulayman-455/sulayman-455.github.io/assets/91572566/42d2a45a-
 
 A full-stack fitness tracking application developed in a team and deployed on Google Cloud. My primary role was leading the development of the entire frontend user experience, while also contributing to the backend.
 
+[**Watch the Live Demo →**](https://youtu.be/lKsIR0NrnqA)
+
 **Technologies Used:** Python, Flask, HTML/CSS, JavaScript, Google Cloud, Docker, Chart.js
-
-<details>
-<summary>Click to see video demo</summary>
-
-https://github.com/Sulayman-455/sulayman-455.github.io/assets/91572566/d5b78d21-f19b-4654-be8d-f5e93de8218e
-
-</details>
 
 ![TrackFit Screenshot](trackfit-screenshot.png)
 
