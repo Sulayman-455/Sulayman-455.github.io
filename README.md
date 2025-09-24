@@ -12,11 +12,20 @@ A driven and detail-oriented Computer Science graduate with hands-on experience 
 
 ---
 
-### IBM Data Science Professional Certificate
-*Provider: IBM Skills Network • Status: In Progress (Expected Completion: Jan 2026)*
+### Google Data Analytics Professional Certificate
+*Provider: Google • Status: In Progress (Expected Completion: Jan 2026)*
 
-A comprehensive 12-course program covering the full data science lifecycle, from data wrangling and analysis to building and deploying machine learning models. The curriculum provides hands-on experience with essential data science tools and libraries including Python, SQL, Jupyter, Pandas, NumPy and Scikit-learn.
+A comprehensive 8-course program designed by Google to prepare for a career in data analytics. The curriculum provides hands-on experience across the full data analysis workflow, from data collection and cleaning to analysis and visualisation. The program focuses on developing proficiency in the tools and techniques required to extract meaningful insights from data and communicate them effectively.
 
+Key Skills & Technologies Being Mastered:
+
+    Data Analysis: Using spreadsheets (Excel, Google Sheets) and R programming for data manipulation, calculation and statistical analysis.
+
+    Database Querying: Writing and executing SQL queries to extract, filter and aggregate data from relational databases.
+
+    Data Visualization & Dashboards: Using Tableau to create compelling visualisations and interactive dashboards that tell a clear story with data.
+
+    Analytical Thinking: Applying structured thinking frameworks to ask the right questions, solve business problems and drive data-driven decision-making.
 
 ---
 
