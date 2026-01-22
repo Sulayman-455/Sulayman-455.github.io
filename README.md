@@ -1,5 +1,5 @@
 # Sulayman Chowdhury
-*Aspiring Software Developer & Data Scientist*
+*Aspiring Risk & Data Analyst*
 
 A driven and detail-oriented Computer Science graduate with hands-on experience building full-stack applications and data-driven solutions. Passionate about using technology to solve complex problems.
 
@@ -8,28 +8,16 @@ A driven and detail-oriented Computer Science graduate with hands-on experience 
 
 ---
 
-### Certifications
-
----
-
-### Google Data Analytics Professional Certificate
-*Provider: Google • Status: In Progress (Expected Completion: Jan 2026)*
-
-A comprehensive 8-course program designed by Google to prepare for a career in data analytics. The curriculum provides hands-on experience across the full data analysis workflow, from data collection and cleaning to analysis and visualisation. The program focuses on developing proficiency in the tools and techniques required to extract meaningful insights from data and communicate them effectively.
-
-Key Skills & Technologies Being Mastered:
-
-    Data Analysis: Using spreadsheets (Excel, Google Sheets) and R programming for data manipulation, calculation and statistical analysis.
-
-    Database Querying: Writing and executing SQL queries to extract, filter and aggregate data from relational databases.
-
-    Data Visualization & Dashboards: Using Tableau to create compelling visualisations and interactive dashboards that tell a clear story with data.
-
-    Analytical Thinking: Applying structured thinking frameworks to ask the right questions, solve business problems and drive data-driven decision-making.
-
----
-
 ### Featured Projects
+
+
+---
+
+### Olist
+
+Coming soon.
+
+---
 
 ---
 
@@ -56,5 +44,13 @@ A full-stack fitness tracking application developed in a team and deployed on Go
 **Technologies Used:** Python, Flask, HTML/CSS, JavaScript, Google Cloud, Docker, Chart.js, MySQL
 
 ![TrackFit Screenshot](trackfit-screenshot.png)
+
+---
+
+
+
+### Certifications
+
+---
 
 ---
