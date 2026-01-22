@@ -2,10 +2,6 @@
 layout: default
 title: Sulayman Chowdhury | Portfolio
 ---
----
-layout: default
-title: Sulayman Chowdhury | Portfolio
----
 
 # Sulayman Chowdhury
 *Aspiring Risk & Data Analyst*
