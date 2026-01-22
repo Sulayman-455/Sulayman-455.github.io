@@ -25,7 +25,10 @@ An end-to-end analytics pipeline using Python and SQL to ingest and clean raw da
 
 **Technologies Used:** Python (Pandas, Scikit-Learn), SQL (SQLite), Power BI, Git
 
+DEMO COMING SOON!!!
+
 ![Olist Screenshot](path/to/your/olist_dashboard_screenshot.png)  <!-- You will need to add a screenshot for this later -->
+
 
 ---
 
@@ -36,7 +39,7 @@ A full-stack financial analysis dashboard built with Python and the MERN stack. 
 
 [**Watch the Live Demo →**](https://youtu.be/JR6rff1yQLg)
 
-[**View the Project on GitHub →**](https://github.com/Sulayman-455/Quantivest-Project-Repo)
+[**View the Project on GitHub →**](https://github.com/Sulayman-455/Quantivest)
 
 **Technologies Used:** Python, MongoDB, Express.js, React, Node.js, Redux, JWT, Pytest, Jest
 
@@ -51,7 +54,7 @@ A full-stack fitness tracking application developed in a team. My primary role w
 
 [**Watch the Live Demo →**](https://youtu.be/lKsIR0NrnqA)
 
-[**View the Project on GitHub →**](https://github.com/Sulayman-455/TrackFit-Project-Repo) 
+[**View the Project on GitHub →**](https://github.com/DennisCri/TrackFit) 
 
 **Technologies Used:** Python, Flask, HTML/CSS, JavaScript, Google Cloud, Docker, MySQL, Chart.js
 
