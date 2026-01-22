@@ -8,7 +8,7 @@ title: Sulayman Chowdhury | Portfolio
 
 A driven and detail-oriented Computer Science graduate with hands-on experience building full-stack applications and data-driven solutions. Passionate about using technology to solve complex problems in the financial sector.
 
-[**Email**](mailto:sulaymanchowdhury1@gmail.com) &nbsp;&nbsp;•&nbsp;&nbsp; [**LinkedIn**](https://linkedin.com/in/suly45) &nbsp;&nbsp;•&nbsp;&nbsp; [**GitHub**](https://github.com/Sulayman-455)
+[**Email**](mailto:sulaymanchowdhury1@gmail.com) &nbsp;&nbsp;•&nbsp;&nbsp; [**LinkedIn**](http://www.linkedin.com/in/sulayman1) &nbsp;&nbsp;•&nbsp;&nbsp; [**GitHub**](https://github.com/Sulayman-455)
 
 ---
 
