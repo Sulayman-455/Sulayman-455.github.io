@@ -34,7 +34,9 @@ An end-to-end analytics pipeline using Python and SQL to ingest and clean raw da
 
 A full-stack financial analysis dashboard built with Python and the MERN stack. The application provides portfolio management and integrates a stacked LSTM model for stock forecasting and risk metric calculation (VaR, CVaR).
 
-[**View the Project on GitHub →**](https://github.com/Sulayman-455/Quantivest-Project-Repo) <!-- Replace with your actual repo link -->
+[**Watch the Live Demo →**](https://youtu.be/JR6rff1yQLg)
+
+[**View the Project on GitHub →**](https://github.com/Sulayman-455/Quantivest-Project-Repo)
 
 **Technologies Used:** Python, MongoDB, Express.js, React, Node.js, Redux, JWT, Pytest, Jest
 
@@ -47,7 +49,9 @@ A full-stack financial analysis dashboard built with Python and the MERN stack. 
 
 A full-stack fitness tracking application developed in a team. My primary role was leading frontend development (HTML/CSS/JS) and contributing to the Python/Flask backend.
 
-[**View the Project on GitHub →**](https://github.com/Sulayman-455/TrackFit-Project-Repo) <!-- Replace with your actual repo link -->
+[**Watch the Live Demo →**](https://youtu.be/lKsIR0NrnqA)
+
+[**View the Project on GitHub →**](https://github.com/Sulayman-455/TrackFit-Project-Repo) 
 
 **Technologies Used:** Python, Flask, HTML/CSS, JavaScript, Google Cloud, Docker, MySQL, Chart.js
 
